@@ -1,0 +1,16 @@
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.exe
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.deps.json
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.runtimeconfig.json
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.runtimeconfig.dev.json
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.dll
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\ref\NameGenerator.dll
+A:\Fullstack\CSharp projects\NameGenerator\bin\Debug\net5.0\NameGenerator.pdb
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.csprojAssemblyReference.cache
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.AssemblyInfoInputs.cache
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.AssemblyInfo.cs
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.csproj.CoreCompileInputs.cache
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.dll
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\ref\NameGenerator.dll
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.pdb
+A:\Fullstack\CSharp projects\NameGenerator\obj\Debug\net5.0\NameGenerator.genruntimeconfig.cache
